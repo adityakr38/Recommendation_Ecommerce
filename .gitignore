@@ -19,4 +19,7 @@ rad.json
 #License-file
 *.flf
 #Test results file
-TestResults.xml
+TestResults.xmlcategory_tree.csv
+events.csv
+item_properties_part1.csv
+item_properties_part2.csv
